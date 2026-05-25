@@ -1,0 +1,6 @@
+{
+  "name": "Blast WebApp",
+  "description": "BLASTn web application locally running alignment tool.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
